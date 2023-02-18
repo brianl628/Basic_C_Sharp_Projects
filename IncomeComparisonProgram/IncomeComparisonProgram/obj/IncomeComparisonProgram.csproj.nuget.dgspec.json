@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/IncomeComparisonProgram/IncomeComparisonProgram/IncomeComparisonProgram.csproj": {}
+  },
+  "projects": {
+    "/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/IncomeComparisonProgram/IncomeComparisonProgram/IncomeComparisonProgram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/IncomeComparisonProgram/IncomeComparisonProgram/IncomeComparisonProgram.csproj",
+        "projectName": "IncomeComparisonProgram",
+        "projectPath": "/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/IncomeComparisonProgram/IncomeComparisonProgram/IncomeComparisonProgram.csproj",
+        "packagesPath": "/Users/Brian/.nuget/packages/",
+        "outputPath": "/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/IncomeComparisonProgram/IncomeComparisonProgram/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Brian/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/bin/Debug/netcoreapp3.1/BooleanLogic
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/bin/Debug/netcoreapp3.1/BooleanLogic.deps.json
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/bin/Debug/netcoreapp3.1/BooleanLogic.runtimeconfig.json
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/bin/Debug/netcoreapp3.1/BooleanLogic.runtimeconfig.dev.json
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/bin/Debug/netcoreapp3.1/BooleanLogic.dll
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/bin/Debug/netcoreapp3.1/BooleanLogic.pdb
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.csproj.AssemblyReference.cache
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.AssemblyInfoInputs.cache
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.AssemblyInfo.cs
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.csproj.CoreCompileInputs.cache
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.dll
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.pdb
+/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.genruntimeconfig.cache

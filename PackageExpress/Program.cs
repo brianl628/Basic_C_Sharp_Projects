@@ -10,9 +10,9 @@ namespace PackageExpress
             Console.WriteLine("Please enter the package weight:");
             string PackageWeight = Console.ReadLine();
             int Weight = Convert.ToInt32(PackageWeight);
-            if (Weight > 50)
+            if (Weight > 50)    //if else statement
             {
-                Console.WriteLine("Package too big to be shipped via Package Express");
+                Console.WriteLine("Package too big to be shipped via Package Express"); //ends the program if the package is too big
             }
             else
             {
@@ -26,7 +26,7 @@ namespace PackageExpress
                 string PackageLength = Console.ReadLine();
                 int Length = Convert.ToInt32(PackageLength);
                 int PackageTotal = (Width * Height * Length) / 100;
-                Console.WriteLine("Your estimated total for shipping this package is: ");
+                Console.WriteLine("Your estimated total for shipping this package is: "); //calculates total shipping costs
                 Console.WriteLine(PackageTotal); Console.WriteLine("Thank you!");
             }
         }

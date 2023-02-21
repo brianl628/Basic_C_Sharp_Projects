@@ -1,0 +1,14 @@
+/Users/Brian/Projects/PackageExpress/bin/Debug/netcoreapp3.1/PackageExpress
+/Users/Brian/Projects/PackageExpress/bin/Debug/netcoreapp3.1/PackageExpress.deps.json
+/Users/Brian/Projects/PackageExpress/bin/Debug/netcoreapp3.1/PackageExpress.runtimeconfig.json
+/Users/Brian/Projects/PackageExpress/bin/Debug/netcoreapp3.1/PackageExpress.runtimeconfig.dev.json
+/Users/Brian/Projects/PackageExpress/bin/Debug/netcoreapp3.1/PackageExpress.dll
+/Users/Brian/Projects/PackageExpress/bin/Debug/netcoreapp3.1/PackageExpress.pdb
+/Users/Brian/Projects/PackageExpress/obj/Debug/netcoreapp3.1/PackageExpress.csproj.AssemblyReference.cache
+/Users/Brian/Projects/PackageExpress/obj/Debug/netcoreapp3.1/PackageExpress.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Brian/Projects/PackageExpress/obj/Debug/netcoreapp3.1/PackageExpress.AssemblyInfoInputs.cache
+/Users/Brian/Projects/PackageExpress/obj/Debug/netcoreapp3.1/PackageExpress.AssemblyInfo.cs
+/Users/Brian/Projects/PackageExpress/obj/Debug/netcoreapp3.1/PackageExpress.csproj.CoreCompileInputs.cache
+/Users/Brian/Projects/PackageExpress/obj/Debug/netcoreapp3.1/PackageExpress.dll
+/Users/Brian/Projects/PackageExpress/obj/Debug/netcoreapp3.1/PackageExpress.pdb
+/Users/Brian/Projects/PackageExpress/obj/Debug/netcoreapp3.1/PackageExpress.genruntimeconfig.cache

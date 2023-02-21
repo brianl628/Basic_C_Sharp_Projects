@@ -26,8 +26,7 @@ namespace PackageExpress
                 string PackageLength = Console.ReadLine();
                 int Length = Convert.ToInt32(PackageLength);
                 int PackageTotal = (Width * Height * Length * Weight) / 100;
-                Console.WriteLine("Your estimated total for shipping this package is: "); //calculates total shipping costs
-                Console.WriteLine(PackageTotal); Console.WriteLine("Thank you!");
+                Console.WriteLine("Your estimated total for shipping this package is: $" + PackageTotal ", Thank you!" ); //calculates total shipping costs
             }
         }
     }

@@ -1,0 +1,13 @@
+/Users/Brian/Projects/ConsoleApp/bin/Release/netcoreapp3.1/ConsoleApp
+/Users/Brian/Projects/ConsoleApp/bin/Release/netcoreapp3.1/ConsoleApp.deps.json
+/Users/Brian/Projects/ConsoleApp/bin/Release/netcoreapp3.1/ConsoleApp.runtimeconfig.json
+/Users/Brian/Projects/ConsoleApp/bin/Release/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json
+/Users/Brian/Projects/ConsoleApp/bin/Release/netcoreapp3.1/ConsoleApp.dll
+/Users/Brian/Projects/ConsoleApp/bin/Release/netcoreapp3.1/ConsoleApp.pdb
+/Users/Brian/Projects/ConsoleApp/obj/Release/netcoreapp3.1/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Brian/Projects/ConsoleApp/obj/Release/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
+/Users/Brian/Projects/ConsoleApp/obj/Release/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
+/Users/Brian/Projects/ConsoleApp/obj/Release/netcoreapp3.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/Brian/Projects/ConsoleApp/obj/Release/netcoreapp3.1/ConsoleApp.dll
+/Users/Brian/Projects/ConsoleApp/obj/Release/netcoreapp3.1/ConsoleApp.pdb
+/Users/Brian/Projects/ConsoleApp/obj/Release/netcoreapp3.1/ConsoleApp.genruntimeconfig.cache

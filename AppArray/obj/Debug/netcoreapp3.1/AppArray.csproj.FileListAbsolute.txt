@@ -1,0 +1,14 @@
+/Users/Brian/Projects/AppArray/bin/Debug/netcoreapp3.1/AppArray
+/Users/Brian/Projects/AppArray/bin/Debug/netcoreapp3.1/AppArray.deps.json
+/Users/Brian/Projects/AppArray/bin/Debug/netcoreapp3.1/AppArray.runtimeconfig.json
+/Users/Brian/Projects/AppArray/bin/Debug/netcoreapp3.1/AppArray.runtimeconfig.dev.json
+/Users/Brian/Projects/AppArray/bin/Debug/netcoreapp3.1/AppArray.dll
+/Users/Brian/Projects/AppArray/bin/Debug/netcoreapp3.1/AppArray.pdb
+/Users/Brian/Projects/AppArray/obj/Debug/netcoreapp3.1/AppArray.csproj.AssemblyReference.cache
+/Users/Brian/Projects/AppArray/obj/Debug/netcoreapp3.1/AppArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Brian/Projects/AppArray/obj/Debug/netcoreapp3.1/AppArray.AssemblyInfoInputs.cache
+/Users/Brian/Projects/AppArray/obj/Debug/netcoreapp3.1/AppArray.AssemblyInfo.cs
+/Users/Brian/Projects/AppArray/obj/Debug/netcoreapp3.1/AppArray.csproj.CoreCompileInputs.cache
+/Users/Brian/Projects/AppArray/obj/Debug/netcoreapp3.1/AppArray.dll
+/Users/Brian/Projects/AppArray/obj/Debug/netcoreapp3.1/AppArray.pdb
+/Users/Brian/Projects/AppArray/obj/Debug/netcoreapp3.1/AppArray.genruntimeconfig.cache

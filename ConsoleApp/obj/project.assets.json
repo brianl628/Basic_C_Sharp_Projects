@@ -8,24 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/Brian/.nuget/packages/": {}
+    "C:\\Users\\winny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Brian/Projects/ConsoleApp/ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\winny\\OneDrive\\Documents\\GitHub\\Tech_Academy_Basic_C_Sharp_Projects\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "/Users/Brian/Projects/ConsoleApp/ConsoleApp.csproj",
-      "packagesPath": "/Users/Brian/.nuget/packages/",
-      "outputPath": "/Users/Brian/Projects/ConsoleApp/obj/",
+      "projectPath": "C:\\Users\\winny\\OneDrive\\Documents\\GitHub\\Tech_Academy_Basic_C_Sharp_Projects\\ConsoleApp\\ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\winny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\winny\\OneDrive\\Documents\\GitHub\\Tech_Academy_Basic_C_Sharp_Projects\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/Brian/.config/NuGet/NuGet.Config"
+        "C:\\Users\\winny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
       }
     }
   }

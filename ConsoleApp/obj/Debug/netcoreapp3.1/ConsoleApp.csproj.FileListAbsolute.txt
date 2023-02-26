@@ -12,3 +12,16 @@
 /Users/Brian/Projects/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll
 /Users/Brian/Projects/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb
 /Users/Brian/Projects/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.genruntimeconfig.cache
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\winny\OneDrive\Documents\GitHub\Tech_Academy_Basic_C_Sharp_Projects\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

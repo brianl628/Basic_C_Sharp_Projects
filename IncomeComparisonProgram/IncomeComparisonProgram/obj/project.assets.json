@@ -8,58 +8,36 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/Brian/.nuget/packages/": {}
+    "C:\\Users\\winny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/IncomeComparisonProgram/IncomeComparisonProgram/IncomeComparisonProgram.csproj",
+      "projectUniqueName": "C:\\Users\\winny\\OneDrive\\Documents\\GitHub\\Tech_Academy_Basic_C_Sharp_Projects\\IncomeComparisonProgram\\IncomeComparisonProgram\\IncomeComparisonProgram.csproj",
       "projectName": "IncomeComparisonProgram",
-      "projectPath": "/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/IncomeComparisonProgram/IncomeComparisonProgram/IncomeComparisonProgram.csproj",
-      "packagesPath": "/Users/Brian/.nuget/packages/",
-      "outputPath": "/Users/Brian/Desktop/WebAppProject/Tech_Academy_Basic_C_Sharp_Projects/IncomeComparisonProgram/IncomeComparisonProgram/obj/",
+      "projectPath": "C:\\Users\\winny\\OneDrive\\Documents\\GitHub\\Tech_Academy_Basic_C_Sharp_Projects\\IncomeComparisonProgram\\IncomeComparisonProgram\\IncomeComparisonProgram.csproj",
+      "packagesPath": "C:\\Users\\winny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\winny\\OneDrive\\Documents\\GitHub\\Tech_Academy_Basic_C_Sharp_Projects\\IncomeComparisonProgram\\IncomeComparisonProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/Brian/.config/NuGet/NuGet.Config"
+        "C:\\Users\\winny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
-      },
-      "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.106/RuntimeIdentifierGraph.json"
-      }
+      "netcoreapp3.1": {}
     }
   }
 }

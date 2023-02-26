@@ -1,0 +1,13 @@
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\netcoreapp3.1\ConsoleAppSubmission.csproj.AssemblyReference.cache
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\netcoreapp3.1\ConsoleAppSubmission.AssemblyInfoInputs.cache
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\netcoreapp3.1\ConsoleAppSubmission.AssemblyInfo.cs
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\netcoreapp3.1\ConsoleAppSubmission.csproj.CoreCompileInputs.cache
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\netcoreapp3.1\ConsoleAppSubmission.exe
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\netcoreapp3.1\ConsoleAppSubmission.deps.json
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\netcoreapp3.1\ConsoleAppSubmission.runtimeconfig.json
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\netcoreapp3.1\ConsoleAppSubmission.runtimeconfig.dev.json
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\netcoreapp3.1\ConsoleAppSubmission.dll
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\netcoreapp3.1\ConsoleAppSubmission.pdb
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\netcoreapp3.1\ConsoleAppSubmission.dll
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\netcoreapp3.1\ConsoleAppSubmission.pdb
+C:\Users\winny\source\repos\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\netcoreapp3.1\ConsoleAppSubmission.genruntimeconfig.cache

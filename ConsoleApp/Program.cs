@@ -35,7 +35,7 @@ namespace Loops
                         break;
                 }
             }
-            while (isGuess); //while statement
+            while (!isGuess); //while statement
             Console.Read();
         }
     }

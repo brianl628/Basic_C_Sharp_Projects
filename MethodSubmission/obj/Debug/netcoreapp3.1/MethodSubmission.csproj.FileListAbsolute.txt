@@ -1,0 +1,13 @@
+C:\Users\winny\source\repos\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.csproj.AssemblyReference.cache
+C:\Users\winny\source\repos\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.AssemblyInfoInputs.cache
+C:\Users\winny\source\repos\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.AssemblyInfo.cs
+C:\Users\winny\source\repos\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\winny\source\repos\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.exe
+C:\Users\winny\source\repos\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.deps.json
+C:\Users\winny\source\repos\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.runtimeconfig.json
+C:\Users\winny\source\repos\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.runtimeconfig.dev.json
+C:\Users\winny\source\repos\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.dll
+C:\Users\winny\source\repos\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.pdb
+C:\Users\winny\source\repos\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.dll
+C:\Users\winny\source\repos\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.pdb
+C:\Users\winny\source\repos\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.genruntimeconfig.cache

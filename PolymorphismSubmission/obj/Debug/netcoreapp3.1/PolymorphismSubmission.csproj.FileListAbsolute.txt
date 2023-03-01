@@ -1,0 +1,13 @@
+C:\Users\winny\source\repos\PolymorphismSubmission\obj\Debug\netcoreapp3.1\PolymorphismSubmission.csproj.AssemblyReference.cache
+C:\Users\winny\source\repos\PolymorphismSubmission\obj\Debug\netcoreapp3.1\PolymorphismSubmission.AssemblyInfoInputs.cache
+C:\Users\winny\source\repos\PolymorphismSubmission\obj\Debug\netcoreapp3.1\PolymorphismSubmission.AssemblyInfo.cs
+C:\Users\winny\source\repos\PolymorphismSubmission\obj\Debug\netcoreapp3.1\PolymorphismSubmission.csproj.CoreCompileInputs.cache
+C:\Users\winny\source\repos\PolymorphismSubmission\bin\Debug\netcoreapp3.1\PolymorphismSubmission.exe
+C:\Users\winny\source\repos\PolymorphismSubmission\bin\Debug\netcoreapp3.1\PolymorphismSubmission.deps.json
+C:\Users\winny\source\repos\PolymorphismSubmission\bin\Debug\netcoreapp3.1\PolymorphismSubmission.runtimeconfig.json
+C:\Users\winny\source\repos\PolymorphismSubmission\bin\Debug\netcoreapp3.1\PolymorphismSubmission.runtimeconfig.dev.json
+C:\Users\winny\source\repos\PolymorphismSubmission\bin\Debug\netcoreapp3.1\PolymorphismSubmission.dll
+C:\Users\winny\source\repos\PolymorphismSubmission\bin\Debug\netcoreapp3.1\PolymorphismSubmission.pdb
+C:\Users\winny\source\repos\PolymorphismSubmission\obj\Debug\netcoreapp3.1\PolymorphismSubmission.dll
+C:\Users\winny\source\repos\PolymorphismSubmission\obj\Debug\netcoreapp3.1\PolymorphismSubmission.pdb
+C:\Users\winny\source\repos\PolymorphismSubmission\obj\Debug\netcoreapp3.1\PolymorphismSubmission.genruntimeconfig.cache

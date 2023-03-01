@@ -1,0 +1,12 @@
+C:\Users\winny\source\repos\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.AssemblyInfoInputs.cache
+C:\Users\winny\source\repos\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.AssemblyInfo.cs
+C:\Users\winny\source\repos\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\winny\source\repos\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.exe
+C:\Users\winny\source\repos\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.deps.json
+C:\Users\winny\source\repos\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.runtimeconfig.json
+C:\Users\winny\source\repos\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.runtimeconfig.dev.json
+C:\Users\winny\source\repos\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.dll
+C:\Users\winny\source\repos\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.pdb
+C:\Users\winny\source\repos\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.dll
+C:\Users\winny\source\repos\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.pdb
+C:\Users\winny\source\repos\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.genruntimeconfig.cache

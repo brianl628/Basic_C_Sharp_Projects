@@ -1,0 +1,13 @@
+C:\Users\winny\source\repos\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\winny\source\repos\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfoInputs.cache
+C:\Users\winny\source\repos\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfo.cs
+C:\Users\winny\source\repos\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\winny\source\repos\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.exe
+C:\Users\winny\source\repos\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.deps.json
+C:\Users\winny\source\repos\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.json
+C:\Users\winny\source\repos\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.dev.json
+C:\Users\winny\source\repos\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.dll
+C:\Users\winny\source\repos\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+C:\Users\winny\source\repos\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.dll
+C:\Users\winny\source\repos\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+C:\Users\winny\source\repos\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.genruntimeconfig.cache

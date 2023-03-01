@@ -1,0 +1,13 @@
+C:\Users\winny\source\repos\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.csproj.AssemblyReference.cache
+C:\Users\winny\source\repos\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.AssemblyInfoInputs.cache
+C:\Users\winny\source\repos\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.AssemblyInfo.cs
+C:\Users\winny\source\repos\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\winny\source\repos\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.exe
+C:\Users\winny\source\repos\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.deps.json
+C:\Users\winny\source\repos\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.runtimeconfig.json
+C:\Users\winny\source\repos\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.runtimeconfig.dev.json
+C:\Users\winny\source\repos\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.dll
+C:\Users\winny\source\repos\MainMethod\bin\Debug\netcoreapp3.1\MainMethod.pdb
+C:\Users\winny\source\repos\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.dll
+C:\Users\winny\source\repos\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.pdb
+C:\Users\winny\source\repos\MainMethod\obj\Debug\netcoreapp3.1\MainMethod.genruntimeconfig.cache

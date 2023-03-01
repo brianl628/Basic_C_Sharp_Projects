@@ -87,6 +87,20 @@ namespace ConsoleAppSubmission
                         Console.WriteLine(animalList[a] + " is a duplicate");
                     }
                 }
+                List<string> duplicateList = new List<string>();
+
+                foreach (string animal in animalList)
+                {
+                    if (duplicateList has animal in list)
+                    {
+                        Console.WriteLine(animal + "has already occured.")
+                    }
+                    else
+                    {
+                        Console.WriteLine(animal + "has not occured.")
+                        //add animal to the list
+                    }
+                }
 
 
 

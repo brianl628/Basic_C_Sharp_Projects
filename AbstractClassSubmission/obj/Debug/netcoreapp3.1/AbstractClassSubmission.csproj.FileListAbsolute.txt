@@ -1,0 +1,13 @@
+C:\Users\winny\source\repos\AbstractClassSubmission\obj\Debug\netcoreapp3.1\AbstractClassSubmission.csproj.AssemblyReference.cache
+C:\Users\winny\source\repos\AbstractClassSubmission\obj\Debug\netcoreapp3.1\AbstractClassSubmission.AssemblyInfoInputs.cache
+C:\Users\winny\source\repos\AbstractClassSubmission\obj\Debug\netcoreapp3.1\AbstractClassSubmission.AssemblyInfo.cs
+C:\Users\winny\source\repos\AbstractClassSubmission\obj\Debug\netcoreapp3.1\AbstractClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\winny\source\repos\AbstractClassSubmission\bin\Debug\netcoreapp3.1\AbstractClassSubmission.exe
+C:\Users\winny\source\repos\AbstractClassSubmission\bin\Debug\netcoreapp3.1\AbstractClassSubmission.deps.json
+C:\Users\winny\source\repos\AbstractClassSubmission\bin\Debug\netcoreapp3.1\AbstractClassSubmission.runtimeconfig.json
+C:\Users\winny\source\repos\AbstractClassSubmission\bin\Debug\netcoreapp3.1\AbstractClassSubmission.runtimeconfig.dev.json
+C:\Users\winny\source\repos\AbstractClassSubmission\bin\Debug\netcoreapp3.1\AbstractClassSubmission.dll
+C:\Users\winny\source\repos\AbstractClassSubmission\bin\Debug\netcoreapp3.1\AbstractClassSubmission.pdb
+C:\Users\winny\source\repos\AbstractClassSubmission\obj\Debug\netcoreapp3.1\AbstractClassSubmission.dll
+C:\Users\winny\source\repos\AbstractClassSubmission\obj\Debug\netcoreapp3.1\AbstractClassSubmission.pdb
+C:\Users\winny\source\repos\AbstractClassSubmission\obj\Debug\netcoreapp3.1\AbstractClassSubmission.genruntimeconfig.cache

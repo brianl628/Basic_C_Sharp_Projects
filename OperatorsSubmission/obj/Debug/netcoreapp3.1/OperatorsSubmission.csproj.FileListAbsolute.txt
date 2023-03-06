@@ -1,0 +1,13 @@
+C:\Users\winny\source\repos\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.csproj.AssemblyReference.cache
+C:\Users\winny\source\repos\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.AssemblyInfoInputs.cache
+C:\Users\winny\source\repos\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.AssemblyInfo.cs
+C:\Users\winny\source\repos\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\winny\source\repos\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.exe
+C:\Users\winny\source\repos\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.deps.json
+C:\Users\winny\source\repos\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.runtimeconfig.json
+C:\Users\winny\source\repos\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.runtimeconfig.dev.json
+C:\Users\winny\source\repos\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.dll
+C:\Users\winny\source\repos\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.pdb
+C:\Users\winny\source\repos\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.dll
+C:\Users\winny\source\repos\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.pdb
+C:\Users\winny\source\repos\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.genruntimeconfig.cache

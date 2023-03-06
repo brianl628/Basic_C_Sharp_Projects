@@ -1,0 +1,13 @@
+C:\Users\winny\source\repos\EnumSubmission\bin\Debug\netcoreapp3.1\EnumSubmission.exe
+C:\Users\winny\source\repos\EnumSubmission\bin\Debug\netcoreapp3.1\EnumSubmission.deps.json
+C:\Users\winny\source\repos\EnumSubmission\bin\Debug\netcoreapp3.1\EnumSubmission.runtimeconfig.json
+C:\Users\winny\source\repos\EnumSubmission\bin\Debug\netcoreapp3.1\EnumSubmission.runtimeconfig.dev.json
+C:\Users\winny\source\repos\EnumSubmission\bin\Debug\netcoreapp3.1\EnumSubmission.dll
+C:\Users\winny\source\repos\EnumSubmission\bin\Debug\netcoreapp3.1\EnumSubmission.pdb
+C:\Users\winny\source\repos\EnumSubmission\obj\Debug\netcoreapp3.1\EnumSubmission.csproj.AssemblyReference.cache
+C:\Users\winny\source\repos\EnumSubmission\obj\Debug\netcoreapp3.1\EnumSubmission.AssemblyInfoInputs.cache
+C:\Users\winny\source\repos\EnumSubmission\obj\Debug\netcoreapp3.1\EnumSubmission.AssemblyInfo.cs
+C:\Users\winny\source\repos\EnumSubmission\obj\Debug\netcoreapp3.1\EnumSubmission.csproj.CoreCompileInputs.cache
+C:\Users\winny\source\repos\EnumSubmission\obj\Debug\netcoreapp3.1\EnumSubmission.dll
+C:\Users\winny\source\repos\EnumSubmission\obj\Debug\netcoreapp3.1\EnumSubmission.pdb
+C:\Users\winny\source\repos\EnumSubmission\obj\Debug\netcoreapp3.1\EnumSubmission.genruntimeconfig.cache

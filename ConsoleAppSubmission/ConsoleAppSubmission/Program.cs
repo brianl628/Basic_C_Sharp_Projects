@@ -76,28 +76,28 @@ namespace ConsoleAppSubmission
             {
                 Console.WriteLine("This animal is not unique. Duplicates are found here:");
 
-                for (int a = 0; a < animalList.Count; a++)
-                {
-                    if (animalList.LastIndexOf(animalList[a]) >= a && animalList.IndexOf(animalList[a]) == a)
-                    {
-                        Console.WriteLine(animalList[a] + " is unique");
-                    }
-                    else
-                    {
-                        Console.WriteLine(animalList[a] + " is a duplicate");
-                    }
-                }
+               // for (int a = 0; a < animalList.Count; a++)
+                //{
+                    //if (animalList.LastIndexOf(animalList[a]) >= a && animalList.IndexOf(animalList[a]) == a)
+                    //{
+                        //Console.WriteLine(animalList[a] + " is unique");
+                    //}
+                    //else
+                    //{
+                        //Console.WriteLine(animalList[a] + " is a duplicate");
+                    //}
+                //}
                 List<string> duplicateList = new List<string>();
 
                 foreach (string animal in animalList)
                 {
-                    if (duplicateList has animal in list)
+                    if (duplicateList.Contains(animal))
                     {
-                        Console.WriteLine(animal + "has already occured.")
+                        Console.WriteLine(animal + " has already occured.");
                     }
                     else
                     {
-                        Console.WriteLine(animal + "has not occured.")
+                        Console.WriteLine(animal + " has not occured.");
                         //add animal to the list
                     }
                 }

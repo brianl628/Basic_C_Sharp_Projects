@@ -8,4 +8,9 @@ public class Function
         output = input / 2; //divide by 2
         Console.WriteLine("Your result is " + output); //output result
     }
+    public void mathFunction(decimal input, out decimal output)
+    {
+        output = input / 2;
+        Console.WriteLine("Your result is " + output); //overload method
+    }
 }

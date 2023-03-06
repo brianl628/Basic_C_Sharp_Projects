@@ -10,3 +10,4 @@ C:\Users\winny\source\repos\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmiss
 C:\Users\winny\source\repos\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.dll
 C:\Users\winny\source\repos\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.pdb
 C:\Users\winny\source\repos\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.genruntimeconfig.cache
+C:\Users\winny\source\repos\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.csproj.AssemblyReference.cache

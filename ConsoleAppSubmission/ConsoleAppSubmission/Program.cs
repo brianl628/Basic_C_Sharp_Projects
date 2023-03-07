@@ -7,14 +7,14 @@ namespace ConsoleAppSubmission
     {
         static void Main(string[] args)
         {
-            //string[] Fruits = { "apples", "bananas", "oranges", "watermelons", "starfruits" };
-            //Console.WriteLine("Please add a fruit to the basket.");
-            //string Fruit = Console.ReadLine();
+            string[] Fruits = { "apples", "bananas", "oranges", "watermelons", "starfruits" };
+            Console.WriteLine("Please add a fruit to the basket.");
+            string Input = Console.ReadLine();
 
-            //for (int f = 0; f < Fruits.Length; f++) 
-            //{
-                //Console.WriteLine("You receieved " + Fruits[f]);
-            //}
+            for (int f = 0; f < Fruits.Length; f++) 
+            {
+            Console.WriteLine(Input + Fruits[f]);
+            }
 
 
 
@@ -27,6 +27,13 @@ namespace ConsoleAppSubmission
             //foodList.Add("Tortilla");
             //foodList.Add("Sausage");
             //foodList.Add("Cheese");
+
+            //bool infinite = true;         //While Loop
+            //while (infinite)
+            //{
+                //infinite = true;
+                //Console.WriteLine("Loop.");
+            //}
 
             //Console.WriteLine("Guess what's on my grocery list!");
             //string food = Console.ReadLine();

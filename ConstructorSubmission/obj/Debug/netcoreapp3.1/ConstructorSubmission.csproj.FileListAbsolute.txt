@@ -1,0 +1,13 @@
+C:\Users\winny\source\repos\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.exe
+C:\Users\winny\source\repos\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.deps.json
+C:\Users\winny\source\repos\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.runtimeconfig.json
+C:\Users\winny\source\repos\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.runtimeconfig.dev.json
+C:\Users\winny\source\repos\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.dll
+C:\Users\winny\source\repos\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.pdb
+C:\Users\winny\source\repos\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.csproj.AssemblyReference.cache
+C:\Users\winny\source\repos\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.AssemblyInfoInputs.cache
+C:\Users\winny\source\repos\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.AssemblyInfo.cs
+C:\Users\winny\source\repos\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\winny\source\repos\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.dll
+C:\Users\winny\source\repos\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.pdb
+C:\Users\winny\source\repos\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.genruntimeconfig.cache

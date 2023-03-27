@@ -5,11 +5,11 @@
 <h2> Projects: </h2>
 
 [Car Insurance Application](/CarInsurance)
-/break
+
 [Student Database](/FinalChallenge)
-/break
+
 [Income Comparison Program](/IncomeComparisonProgram)
-/break
+
 
 <h3>Car Insurance Application</h3>
 <p>This was made with C# and Visual Studio, and it will output the total costs after the user gives out information.</p>

@@ -1,0 +1,16 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+
+}
+@{
+    var greeting = "Welcome to our site!";
+    var weekDay = DateTime.Now.DayOfWeek;
+    var greetingMessage = greeting + " Here in Huston it is: " + weekDay;
+}
+
+<div class="text-center">
+    <h2 style ="font-size: 100 px; color: red;">Welcome</h2>
+    <p>The current time is: @DateTime.Now.ToString("hh:mm:ss tt").</p>
+</div>

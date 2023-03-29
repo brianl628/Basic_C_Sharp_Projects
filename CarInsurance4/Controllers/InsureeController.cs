@@ -51,6 +51,7 @@ namespace CarInsurance4.Controllers
             if (ModelState.IsValid)
             {
                 db.Insurees.Add(insuree);
+                insuree.Quote = CalculateQuota(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -136,7 +137,9 @@ namespace CarInsurance4.Controllers
 
             if (age <= 18)
             {
+            baseCost = decimal.Add(baseCost, 100);
             }
+            
             else if (age >= 19 && age <= 25)
                 baseCost = decimal.Add(baseCost, 50);
             else
